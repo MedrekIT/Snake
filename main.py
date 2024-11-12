@@ -1,8 +1,8 @@
 import pygame as pg
 import time
-from packages import Snake
-from packages import Apple
-from packages import GameLogic
+from game import Snake
+from game import Apple
+from game import GameLogic
 
 if __name__ == '__main__':
     pg.init()
